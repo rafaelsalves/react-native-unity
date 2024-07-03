@@ -1,10 +1,10 @@
 {
-  "name": "@azesmway/react-native-unity",
+  "name": "@rafaelsalves/react-native-unity",
   "version": "1.0.10",
   "description": "React Native Unity",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
-  "types": "lib/typescript/index.d.ts",
+  "types": "src/index.d.ts",
   "react-native": "src/index",
   "source": "src/index",
   "files": [
@@ -43,7 +43,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azesmway/react-native-unity.git"
+    "url": "git+https://github.com/rafaelsalves/react-native-unity.git"
   },
   "author": "Alexey Zolotaryov <azesm@me.com> (https://github.com/azesmway)",
   "license": "MIT",
